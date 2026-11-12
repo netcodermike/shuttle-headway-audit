@@ -1,0 +1,11 @@
+{
+  "command": [
+    "dotnet",
+    "bin/Debug/net8.0/App.dll"
+  ],
+  "expected": {
+    "gaps": 2,
+    "largestGapMinutes": 35,
+    "overTarget": 1
+  }
+}
